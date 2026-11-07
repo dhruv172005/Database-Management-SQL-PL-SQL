@@ -1,0 +1,7 @@
+Database Comparison
+
+Database    Licence       Needs server?    One real use
+MySQL       GPLv2         Yes              Websites
+PostgreSQL  Open-source   Yes              Banking systems
+Oracle      Commercial    Yes              Large companies
+SQLite      Public domain No               Mobile apps

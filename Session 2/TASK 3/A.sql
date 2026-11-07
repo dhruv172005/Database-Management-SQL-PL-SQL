@@ -1,0 +1,7 @@
+ALTER TABLE students
+ADD COLUMN email VARCHAR (60);
+
+ALTER TABLE students
+MODIFY COLUMN city VARCHAR (50);
+
+DESCRIBE students;
